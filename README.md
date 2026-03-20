@@ -10,15 +10,6 @@ Uma pokédex simples e interativa focada na linha evolutiva do Dragonite.
 - **Interatividade**: Clique nos cards para ver detalhes no console
 - **Imagens Dinâmicas**: Sprites direto da PokéAPI
 
-## Estrutura do Projeto
-
-```
-pokedex-dragonite/
-├── index.html      # Estrutura HTML
-├── style.css       # Estilos e responsividade
-├── script.js       # Funcionamento interativo
-└── README.md       # Este arquivo
-```
 ## Possíveis Extensões 
 
 - Adicionar mais Pokémon
